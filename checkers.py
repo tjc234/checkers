@@ -8,6 +8,7 @@ current_player = "b"
 is_consecutive_jump = False
 event_listener_proxies = []
 
+
 # function to handle cell click
 def cell_click_handler(event):
     global selected_piece, current_player, is_consecutive_jump
