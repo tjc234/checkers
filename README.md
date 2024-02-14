@@ -1,2 +1,2 @@
-# checkers
+# Checkers
  Browser-based checkers written in PyScript.
