@@ -93,7 +93,7 @@ def has_additional_jumps(cell, player):
                     
     # return false if no additional jumps are found
     return False
-
+ 
 
 # function to highlight the moves
 def highlight_moves(cell, jumps_only=False):
